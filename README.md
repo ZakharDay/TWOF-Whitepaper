@@ -24,11 +24,11 @@ At the end of each month all this month Blocks and a few additional blocks (“S
 
 ### How to make an order
 
-To publish a post to the Wall you need to choose a Block or Blocks where you want to place your publication. As the Wall produces one Block a day you can plan publications for a particular day. Next you need to make an order for the area of your choice on [our Discord channel](https://bit.ly/TWOF-Discord). We will process your order and then send you an invoice with a price in our coin.
+To publish a post to the Wall you need to choose a Block or Blocks where you want to place your publication. As the Wall produces one Block a day you can plan publications for a particular day. Next you need to make an order for the area of your choice on our Discord channel. We will process your order and then send you an invoice with a price in our coin.
 
 ### How to buy our creator coins to pay for your publication
 
-We accept payments in our creator coins only which you can buy from one of our ad providers via our [TWOF Exchange Service](https://bit.ly/TWOF-Discord). After we will get your order we will ask our ad providers to sell the amount of our creator coin you need. We will get back to you with a price in $BitClout. After that you will need to transfer us $BitClout to complete the purchase.
+We accept payments in our creator coins only which you can buy from one of our ad providers via our TWOF Exchange Service. After we will get your order we will ask our ad providers to sell the amount of our creator coin you need. We will get back to you with a price in $BitClout. After that you will need to transfer us $BitClout to complete the purchase.
 
 ### The publication process
 
@@ -109,7 +109,7 @@ As part of the investor protection agreement and the minimum number of coins iss
 
 ### How to become an investor
 
-The service will start its work with the classic for startups investment method — FF (Family & Friends) and will further increase the pool of investors until the planned maximum of 50 coins in the hands of investors is reached. To become an investor, you can write to us on [Discord](https://bit.ly/TWOF-Discord).
+The service will start its work with the classic for startups investment method — FF (Family & Friends) and will further increase the pool of investors until the planned maximum of 50 coins in the hands of investors is reached. To become an investor, you can write to us on Discord.
 
 ### Investor rights
 
@@ -162,7 +162,7 @@ The service will start its work with the classic for startups investment method 
 
 ## Service termination procedure
 
-1. The service announces the date of termination of work on [Discord](https://bit.ly/TWOF-Discord) no later than 7 days;
+1. The service announces the date of termination of work on Discord no later than 7 days;
 2. The service burns all coins;
 3. After burning the coins, 40% of the profit is distributed among the investors according to their level.
 
