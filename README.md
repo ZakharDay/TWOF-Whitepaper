@@ -1,6 +1,6 @@
 # BitClout’s “The Wall of Fame” Whitepaper
 
-_v1.0.0_
+_v1.0.1_
 
 **This document defines The Wall of Fame service model, investment program and terms of use.**
 
